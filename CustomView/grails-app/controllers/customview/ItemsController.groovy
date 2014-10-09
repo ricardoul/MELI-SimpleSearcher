@@ -8,8 +8,7 @@ class ItemsController {
 
     def listarItems(){
         def items = itemsService.buscarItems(params.query,params.sort,params.pagenumber)
-        def a = 5 * 5
-        a = a / 2
+       
         
         render(view: "/items/list", model: items)
     }
