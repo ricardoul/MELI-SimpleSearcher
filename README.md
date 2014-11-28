@@ -1,4 +1,4 @@
 MELI-SimpleSearcher
 ===================
 
-Simple Seracher hiteando la API Rest publica de MELI
+Simple Seracher hiteando la API Rest publica de MercadoLibre realizado en GRAILS.
